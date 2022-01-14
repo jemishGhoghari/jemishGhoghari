@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jemishGhoghari
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Autonomous Vehicle Engineering.
+- 👀 I’m interested in Automotive Software development.
+- 🌱 I’m currently studying Autonomous Vehicle Engineering.
 - 💞️ I’m looking to collaborate on Github.
 
 <!---
