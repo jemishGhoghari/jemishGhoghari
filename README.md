@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jemishGhoghari
-- 👀 I’m interested in Automotive Software development.
+- 👀 I’m interested in Onject detection amd Tracking as well as Control Systems etc.
 - 🌱 I’m currently studying Autonomous Vehicle Engineering.
 - 💞️ I’m looking to collaborate on Github.
 
