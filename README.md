@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemishghoghari&label=Profile%20views&color=0e75b6&style=flat" alt="jemishghoghari" /> </p>
 
-- 🔭 I’m currently working on **Automated Driving Simulator**
+- 🔭 I’m currently working on **Automated Driving Research & Development**
 
 - 🌱 I’m currently learning **Bachelor of Autonomous Vehicle Engineering**
 
